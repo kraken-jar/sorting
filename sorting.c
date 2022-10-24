@@ -1,3 +1,5 @@
+// all sorting codes in c
+
 #include <stdio.h>
 #include <string.h>
 #define RANGE 255
@@ -128,8 +130,8 @@ void mergeSort(int arr[], int l, int r)
 }
 
 // void quickSort()
-{
-    mostly in c++;
+// {
+mostly in c++;
 }
 
 // void countSort(char arr[])

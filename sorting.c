@@ -1,4 +1,4 @@
-// all sorting codes in c
+// ----All sorting codes in c--- //
 
 #include <stdio.h>
 #include <string.h>
